@@ -1,0 +1,34 @@
+body {
+    background-image: url("assets/image/BACK3.PNG");
+    backface-visibility:unset;
+    background-size: cover;
+    
+}
+h1{ font-size: 60pt;
+    font-style: italic;
+    text-align: center;
+    color:whitesmoke ;
+    border-bottom: 4px dotted blue;
+    border-width: 5px;
+    word-spacing: 5px;
+    font-style:10vw;
+  
+}
+
+.hello{
+    font-family: italic;
+    text-align: center;
+    color:orangered ;
+    font-size:25pt;
+
+}
+p{
+    border-bottom: 2px dotted blue;
+}
+.second{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: initial;
+}
+a{
+    color:yellow
+}
